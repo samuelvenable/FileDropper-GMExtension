@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"fnt_example","order":1,"path":"fonts/fnt_example/fnt_example.yy",},
+    {"name":"obj_example","order":1,"path":"objects/obj_example/obj_example.yy",},
+    {"name":"rm_example","order":1,"path":"rooms/rm_example/rm_example.yy",},
+    {"name":"FileDropper","order":1,"path":"extensions/FileDropper/FileDropper.yy",},
+  ],
+}
